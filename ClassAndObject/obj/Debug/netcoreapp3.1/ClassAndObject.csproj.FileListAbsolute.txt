@@ -1,0 +1,12 @@
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.exe
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.deps.json
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.runtimeconfig.json
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.runtimeconfig.dev.json
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.dll
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\bin\Debug\netcoreapp3.1\ClassAndObject.pdb
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.AssemblyInfoInputs.cache
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.AssemblyInfo.cs
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.dll
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.pdb
+D:\College\NCC Reg\Lab works\Lab2.1\ClassAndObject\obj\Debug\netcoreapp3.1\ClassAndObject.genruntimeconfig.cache
